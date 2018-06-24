@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="timebar">
+        <div class="div-class-timebar">
             <span>票房日期：</span>
             <select id="selDateElm" onchange="changeDate(this.value)">
                     <option value="2018-06-01">2018第6月</option>
@@ -19,5 +19,7 @@ export default {
 }
 </script>
 <style lang="stylus" scoped>
-
+    .div-class-timebar
+        display flex
+        left 0
 </style>
