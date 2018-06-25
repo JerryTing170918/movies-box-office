@@ -1,5 +1,5 @@
 <template>
-  <div class="echartsTable">
+  <div class="div-class-echartsTable">
     <div id="myChart" :style="{width: '100%', height: '400px'}"></div>
   </div>
 </template>
@@ -72,6 +72,5 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
+<style lang="stylus" scoped>
 </style>
