@@ -12,7 +12,7 @@
                     <div class="div-class-movieImgWrapper">
                         <div class="div-class-movieImg">
 
-                            <!-- 注意src之前要加冒号，v-bind: -->
+<!-- 注意src之前要加冒号，v-bind: -->
                             <img v-bind:src = moiveItem.imgSrc>
                         </div>
                         <div class="div-class-movieOthers">
@@ -46,7 +46,7 @@ export default {
         // axios.get('https://api.myjson.com/bins/1gj18m')//线上接口
         axios.get('../static/movieItems.json')//本地模拟接口
         .then(response=>{
-        // this.movieItems=response.data;data表示的是asios接受的json文件
+// this.movieItems=response.data;data表示的是asios接受的json文件
         this.movieItems=response.data[0];
 
         })
@@ -54,34 +54,34 @@ export default {
         alert('设备未联网')
         });
     },
-    // methods:{
-    //     addTypeValue0(){
-    //         this.typeValue = 0
-    //         console.log(typeValue)
-    //     },
-    //     addTypeValue1(){
-    //         var typeValue = 1
-    //         console.log(typeValue)
-    //     },
-    //     addTypeValue2(){
-    //         this.typeValue = 2
-    //         console.log(typeValue)
-    //     },
-    //     addTypeValue3(){
-    //         this.typeValue = 3
-    //         console.log(typeValue)
-    //     },
-    //     addTypeValue4(){
-    //         this.typeValue = 4
-    //         console.log(typeValue)
-    //     },
-    //     addTypeValue5(){
-    //         this.typeValue = 5
-    //         console.log(typeValue)
-    //     }
+    methods:{
+        addTypeValue0(){
+            this.typeValue = 0
+            console.log(typeValue)
+        },
+        addTypeValue1(){
+            var typeValue = 1
+            console.log(typeValue)
+        },
+        addTypeValue2(){
+            this.typeValue = 2
+            console.log(typeValue)
+        },
+        addTypeValue3(){
+            this.typeValue = 3
+            console.log(typeValue)
+        },
+        addTypeValue4(){
+            this.typeValue = 4
+            console.log(typeValue)
+        },
+        addTypeValue5(){
+            this.typeValue = 5
+            console.log(typeValue)
+        }
         
         
-    // }
+    }
     
 }
 </script>
