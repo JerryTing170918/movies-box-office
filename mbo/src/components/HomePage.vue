@@ -8,8 +8,9 @@
             </div> 
             <div class="div-class-middleConteniar">
                 <div class="div-class-bigTable">
+                    <!-- <Time-bar v-on:msgFunc="func()"></Time-bar> -->
                     <Time-bar></Time-bar>
-                    <echarts-table></echarts-table> 
+                    <echarts-table  ></echarts-table> 
                 </div>
                 <div class="div-class-movieItems">
                     <movie-items></movie-items>
@@ -27,13 +28,17 @@ import TimeBar from './TimeBar'
 
 export default {
     name:'homePage',
+    // data(){
+    //     return{
+    //         monthValue:'0',
+    //     }
+    // },
     components: {
         EchartsTable,
         TimeBar,
         LeftNav,
         MovieItems,
-    },
-    
+    }
 }
 </script>
 <style lang="stylus" scoped>   

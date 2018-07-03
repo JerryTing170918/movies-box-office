@@ -54,35 +54,6 @@ export default {
         alert('设备未联网')
         });
     },
-    // methods:{
-    //     addTypeValue0(){
-    //         this.typeValue = 0
-    //         console.log(typeValue)
-    //     },
-    //     addTypeValue1(){
-    //         var typeValue = 1
-    //         console.log(typeValue)
-    //     },
-    //     addTypeValue2(){
-    //         this.typeValue = 2
-    //         console.log(typeValue)
-    //     },
-    //     addTypeValue3(){
-    //         this.typeValue = 3
-    //         console.log(typeValue)
-    //     },
-    //     addTypeValue4(){
-    //         this.typeValue = 4
-    //         console.log(typeValue)
-    //     },
-    //     addTypeValue5(){
-    //         this.typeValue = 5
-    //         console.log(typeValue)
-    //     }
-        
-        
-    // }
-    
 }
 </script>
 <style lang="stylus" scoped> 

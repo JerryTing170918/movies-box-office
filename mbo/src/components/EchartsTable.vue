@@ -1,5 +1,7 @@
 <template>
   <div class="div-class-echartsTable">
+		<!-- 在模板中必须至少要有一个data中的数据，不让无法触发updated钩子 -->
+		<div style="display:none">{{ msg }}</div>
     <div id="myChart" :style="{width: '100%', height: '400px'}"></div>
   </div>
 </template>
@@ -13,27 +15,40 @@ require('echarts/lib/chart/bar')
 require('echarts/lib/component/tooltip')
 require('echarts/lib/component/title')
 import axios from 'axios';
+// 引入兄弟组件通信的桥梁
+import eventdata from './event.js'
 
 export default {
-
 	name: 'echartsTable',
-	data(){
-		return{
-      goods:{}
-    }
+	data () {
+		return {
+			msg: 0,
+		}
 	},
+	
 	mounted() {
 		this.drawLine();
-  },
+	},
+	updated () {
 
+
+		// 将drawLine函数加在updated钩子中，可以实现异步更新
+		this.drawLine()
+		console.log('updated中msg: '+this.msg)
+	},
+	created () {
+    eventdata.$on('getDataClick', data => {
+			this.msg = data
+		});
+	},
 
  	
-
   methods: {
-		
+// 首次加载时运行一次
     drawLine() {
-      // 基于准备好的dom，初始化echarts实例
-     	let myChart = echarts.init(document.getElementById('myChart'))
+			console.log('echartsTable drawLine中的msg: '+this.msg)
+			// 基于准备好的dom，初始化echarts实例
+			 let myChart = echarts.init(document.getElementById('myChart'))
       // 绘制图表
 			// 指定图表的配置项和数据
 			//用axios里面的数据更新此处
@@ -88,25 +103,22 @@ export default {
 			.then(res=>{
 				// this.xydata=res.data;data表示的是asios接受的json文件
 				const data = res.data
-				this.goods = data;
-				// console.log(this.goods)
-				// console.log(Array.from(this.goods.text))
-				// console.log(Array.from(this.goods.name))
-				// console.log(Array.from(this.goods.value))
+				this.goods = data
 				// 将要异步加载的数据放在.then里面，从而更新外面的
 				myChart.setOption({
+					
 					title: {
-						text: this.goods[2].text
+						text: this.goods[this.msg].text
 					},
 					yAxis: {
 						//如何获取json数据
-						data:this.goods[2].movie
+						data:this.goods[this.msg].movie
 					},
 					//name与legend对应,树状条的颜色可以在此修改
 					series: [
 						{
-							//如何获取json数据						
-							data:this.goods[2].value
+							//如何获取json数据				
+							data:this.goods[this.msg].value
 						}
 					],
 				});
@@ -117,12 +129,7 @@ export default {
 				
 		},
 	},
-
-	computed:{
-
-	},
 }
-
 </script>
 
 <style lang="stylus" scoped>
