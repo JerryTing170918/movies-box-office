@@ -1,7 +1,7 @@
 <template>
   <div class="div-class-echartsTable">
 		<!-- 在模板中必须至少要有一个data中的数据，不让无法触发updated钩子 -->
-		<div style="display:none">{{ msg }}</div>
+		<div style="display:none">{{ indexValue }}</div>
     <div id="myChart" :style="{width: '100%', height: '400px'}"></div>
   </div>
 </template>
@@ -22,7 +22,7 @@ export default {
 	name: 'echartsTable',
 	data () {
 		return {
-			msg: 0,
+			indexValue: 0,
 		}
 	},
 	
@@ -34,11 +34,11 @@ export default {
 
 		// 将drawLine函数加在updated钩子中，可以实现异步更新
 		this.drawLine()
-		console.log('updated中msg: '+this.msg)
+		console.log('updated中indexValue: '+this.indexValue)
 	},
 	created () {
     eventdata.$on('getDataClick', data => {
-			this.msg = data
+			this.indexValue = data
 		});
 	},
 
@@ -46,7 +46,7 @@ export default {
   methods: {
 // 首次加载时运行一次
     drawLine() {
-			console.log('echartsTable drawLine中的msg: '+this.msg)
+			console.log('echartsTable drawLine中的indexValue: '+this.indexValue)
 			// 基于准备好的dom，初始化echarts实例
 			 let myChart = echarts.init(document.getElementById('myChart'))
       // 绘制图表
@@ -108,17 +108,17 @@ export default {
 				myChart.setOption({
 					
 					title: {
-						text: this.goods[this.msg].text
+						text: this.goods[this.indexValue].text
 					},
 					yAxis: {
 						//如何获取json数据
-						data:this.goods[this.msg].movie
+						data:this.goods[this.indexValue].movie
 					},
 					//name与legend对应,树状条的颜色可以在此修改
 					series: [
 						{
 							//如何获取json数据				
-							data:this.goods[this.msg].value
+							data:this.goods[this.indexValue].value
 						}
 					],
 				});

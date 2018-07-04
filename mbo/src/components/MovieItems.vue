@@ -8,7 +8,9 @@
                 电影详情
             </div>
             <div class="div-class-movieItem">
-                <div v-for="moiveItem in movieItems">
+                <!-- 在模板中必须至少要有一个data中的数据，不让无法触发updated钩子 -->
+		        <!-- <div style="display:none">{{ index }}</div> -->
+                <div v-for="moiveItem in movieItems[index]">
                     <div class="div-class-movieImgWrapper">
                         <div class="div-class-movieImg">
 
@@ -16,7 +18,7 @@
                             <img v-bind:src = moiveItem.imgSrc>
                         </div>
                         <div class="div-class-movieOthers">
-                            <div class="div-class-movieName">{{moiveItem.movieName}}</div>
+                            <a href="https://movie.douban.com/" target="_blank" class="div-class-movieName">{{moiveItem.movieName}}</a>
                             <div class="div-class-movieCity">{{moiveItem.movieCity}}</div>
                             <div class="div-class-movieDirector">{{moiveItem.movieDirector}}</div>
                             <div class="div-class-movieStarring">{{moiveItem.movieStarring}}</div>
@@ -33,27 +35,60 @@
 </template>
 <script>
 import axios from 'axios';
+// 引入兄弟组件通信的桥梁
+import eventdata from './event.js'
 
 export default {
     name:'moviesItems',
     data(){
         return{
-            movieItems:[]
+            movieItems:[],
+            index:0
             
         }
     },
-    created() {
-        // axios.get('https://api.myjson.com/bins/1gj18m')//线上接口
-        axios.get('../static/movieItems.json')//本地模拟接口
-        .then(response=>{
-        // this.movieItems=response.data;data表示的是asios接受的json文件
-        this.movieItems=response.data[0];
-
-        })
-        .catch(error=>{
-        alert('设备未联网')
-        });
+    created () {
+        eventdata.$on('getDataClick', data => {
+			this.index = data
+		});
     },
+    mounted(){
+        // console.log('moviesItems: mounted')
+        this.getMovieItems();
+    },
+    // updated(){
+    //     // this.getMovieItems();
+    //     console.log('moviesItems: updated')
+    // },
+    // created() {
+        //     // axios.get('https://api.myjson.com/bins/1gj18m')//线上接口
+        //     axios.get('../static/movieItems.json')//本地模拟接口
+        //     .then(response=>{
+        //     // this.movieItems=response.data;data表示的是asios接受的json文件
+        //     this.movieItems=response.data[0];
+
+        //     })
+        //     .catch(error=>{
+        //     alert('设备未联网')
+        //     });
+        // },
+    methods:{
+        getMovieItems(){
+            // axios.get('https://api.myjson.com/bins/1gj18m')//线上接口
+            axios.get('../static/movieItems.json')//本地模拟接口
+            .then(response=>{
+            // const data = response.data
+            // this.movieItems=response.data;data表示的是asios接受的json文件
+            this.movieItems=response.data
+            // this.movieItems=response.data[index];
+            console.log('getMovieItems中index: '+this.index)
+
+            })
+            .catch(error=>{
+            alert('设备未联网')
+            });
+        }
+    }
 }
 </script>
 <style lang="stylus" scoped> 
@@ -85,7 +120,14 @@ export default {
                         font-size 14px
                         height 80px
                         line-height 80px
-      
+                    a 
+                        display block
+                        text-align left
+                        padding-left 5px
+                        font-size 14px
+                        height 80px
+                        line-height 80px
+        
 </style>
 
 

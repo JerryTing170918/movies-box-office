@@ -1,15 +1,15 @@
 [
     [
-        {
+        {   
             "imgSrc":"http://www.cbooo.cn/moviepic/225759.jpg",
-            "movieName":"片名：侏罗纪世界2",
             "movieCity":"国家：美国",
             "movieDirector":"导演：胡安·安东尼奥·巴亚纳 Juan Antonio Bayona",
+            "movieName":"片名：侏罗纪世界2",
             "movieStarring":"主演：克里斯·帕拉特 / 布莱丝·达拉斯·霍华德",
             "movieType":"类型：动作 / 科幻 / 冒险"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/250729.jpg",
-            "movieName":"超时空同居",
+            "movieName":"片名：超时空同居",
             "movieCity":"国家：中国大陆",
             "movieDirector":"导演：苏伦",
             "movieStarring":"主演：雷佳音 / 佟丽娅",
@@ -37,7 +37,7 @@
             "movieType":"类型：喜剧 / 动作"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/668778.jpg",
-            "movieName":"厕所英雄",
+            "movieName":"片名：厕所英雄",
             "movieCity":"国家：印度",
             "movieDirector":"导演：什里·那拉扬·辛",
             "movieStarring":"主演：阿克谢·库玛尔 / 阿努潘·凯尔 ",
@@ -73,70 +73,70 @@
         }
     ],[
         {
-            "imgSrc":"aaa",
+            "imgSrc":"http://www.cbooo.cn/moviepic/217497.jpg",
             "movieName":"aaa",
             "movieCity":"aaa",
             "movieDirector":"aaa",
             "movieStarring":"aaa",
             "movieType":"aaa"
         },{
-            "imgSrc":"aaa",
+            "imgSrc":"http://www.cbooo.cn/moviepic/250729.jpg",
             "movieName":"aaa",
             "movieCity":"aaa",
             "movieDirector":"aaa",
             "movieStarring":"aaa",
             "movieType":"aaa"
         },{
-            "imgSrc":"aaa",
+            "imgSrc":"http://www.cbooo.cn/moviepic/253823.jpg",
             "movieName":"aaa",
             "movieCity":"aaa",
             "movieDirector":"aaa",
             "movieStarring":"aaa",
             "movieType":"aaa"
         },{
-            "imgSrc":"aaa",
+            "imgSrc":"http://www.cbooo.cn/moviepic/233465.jpg",
             "movieName":"aaa",
             "movieCity":"aaa",
             "movieDirector":"aaa",
             "movieStarring":"aaa",
             "movieType":"aaa"
         },{
-            "imgSrc":"aaa",
+            "imgSrc":"http://www.cbooo.cn/moviepic/250858.jpg",
             "movieName":"aaa",
             "movieCity":"aaa",
             "movieDirector":"aaa",
             "movieStarring":"aaa",
             "movieType":"aaa"
         },{
-            "imgSrc":"aaa",
+            "imgSrc":"http://www.cbooo.cn/moviepic/225925.jpg",
             "movieName":"aaa",
             "movieCity":"aaa",
             "movieDirector":"aaa",
             "movieStarring":"aaa",
             "movieType":"aaa"
         },{
-            "imgSrc":"aaa",
+            "imgSrc":"http://www.cbooo.cn/moviepic/224595.jpg",
             "movieName":"aaa",
             "movieCity":"aaa",
             "movieDirector":"aaa",
             "movieStarring":"aaa",
             "movieType":"aaa"
         },{
-            "imgSrc":"aaa",
+            "imgSrc":"http://www.cbooo.cn/moviepic/228947.jpg",
             "movieName":"aaa",
             "movieCity":"aaa",
             "movieDirector":"aaa",
             "movieStarring":"aaa",
             "movieType":"aaa"
         },{
-            "imgSrc":"aaa",
+            "imgSrc":"http://www.cbooo.cn/moviepic/219107.jpg",
             "movieName":"aaa",
             "movieCity":"aaa",
             "movieDirector":"aaa",
             "movieStarring":"aaa",
             "movieType":"aaa"
         },{
-            "imgSrc":"aaa",
+            "imgSrc":"http://www.cbooo.cn/moviepic/247295.jpg",
             "movieName":"aaa",
             "movieCity":"aaa",
             "movieDirector":"aaa",
