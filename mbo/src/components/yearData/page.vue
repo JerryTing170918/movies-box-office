@@ -20,10 +20,10 @@
     </div>
 </template>
 <script>
-import EchartsTable from './monthData/EchartsTable'
-import LeftNav from './common/LeftNav'
-import MovieItems from './monthData/MovieItems'
-import TimeBar from './monthData/TimeBar'
+import EchartsTable from './EchartsTable'
+import LeftNav from '../common/LeftNav'
+import MovieItems from './MovieItems'
+import TimeBar from './TimeBar'
 
 
 export default {

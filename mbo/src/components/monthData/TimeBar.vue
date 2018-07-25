@@ -17,7 +17,6 @@
 <script>
 // 引入兄弟组件通信的桥梁
 import eventdata from './event.js'
-
 export default {
     name:'timeBar',
     methods: {

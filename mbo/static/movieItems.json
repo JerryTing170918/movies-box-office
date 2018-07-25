@@ -2,7 +2,7 @@
     [
         {   
             "imgSrc":"http://www.cbooo.cn/moviepic/225759.jpg",
-            "movieCity":"国家：美国",
+            "movieCity":"制片国家：美国",
             "movieDirector":"导演：胡安·安东尼奥·巴亚纳 Juan Antonio Bayona",
             "movieName":"片名：侏罗纪世界2",
             "movieStarring":"主演：克里斯·帕拉特 / 布莱丝·达拉斯·霍华德",
@@ -10,63 +10,63 @@
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/250729.jpg",
             "movieName":"片名：超时空同居",
-            "movieCity":"国家：中国大陆",
+            "movieCity":"制片国家：中国大陆",
             "movieDirector":"导演：苏伦",
             "movieStarring":"主演：雷佳音 / 佟丽娅",
             "movieType":"类型：奇幻 / 爱情 / 喜剧"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/247378.jpg",
             "movieName":"片名：哆啦A梦：大雄的金银岛",
-            "movieCity":"国家：日本",
+            "movieCity":"制片国家：日本",
             "movieDirector":"导演：今井一晓",
             "movieStarring":"主演：水田山葵 / 大原惠美",
             "movieType":"类型：动画 / 奇幻 / 冒险"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/217497.jpg",
             "movieName":"片名：复仇者联盟3：无限战争",
-            "movieCity":"国家：美国",
+            "movieCity":"制片国家：美国",
             "movieDirector":"导演：安东尼·罗素",
             "movieStarring":"主演：克里斯·帕拉特 / 布莱丝·达拉斯·霍华德",
             "movieType":"类型：动作 / 科幻 / 奇幻 / 冒险"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/234987.jpg",
             "movieName":"片名：猛虫过江",
-            "movieCity":"国家：中国大陆",
+            "movieCity":"制片国家：中国大陆",
             "movieDirector":"导演：小沈阳",
             "movieStarring":"主演：小沈阳 / 潘斌龙",
             "movieType":"类型：喜剧 / 动作"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/668778.jpg",
             "movieName":"片名：厕所英雄",
-            "movieCity":"国家：印度",
+            "movieCity":"制片国家：印度",
             "movieDirector":"导演：什里·那拉扬·辛",
             "movieStarring":"主演：阿克谢·库玛尔 / 阿努潘·凯尔 ",
             "movieType":"类型：剧情 / 喜剧"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/223686.jpg",
             "movieName":"片名：超人总动员2",
-            "movieCity":"国家：美国",
+            "movieCity":"制片国家：美国",
             "movieDirector":"导演：布拉德·伯德",
             "movieStarring":"主演：格雷格·T·尼尔森 / 霍利·亨特",
             "movieType":"类型：喜剧 / 动作 / 动画 / 冒险"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/235583.jpg",
             "movieName":"片名：幸福马上来",
-            "movieCity":"国家：中国大陆",
+            "movieCity":"制片国家：中国大陆",
             "movieDirector":"导演：冯巩 / 崔俊杰",
             "movieStarring":"主演：冯巩 / 毛俊杰",
             "movieType":"类型：喜剧"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/254656.jpg",
             "movieName":"片名：潜艇总动员：海底两万里",
-            "movieCity":"国家：美国",
+            "movieCity":"制片国家：美国",
             "movieDirector":"导演：申宇",
             "movieStarring":"主演：克里斯·帕拉特 / 布莱丝·达拉斯·霍华德",
             "movieType":"类型：动画 / 奇幻 / 冒险"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/250595.jpg",
             "movieName":"片名：泄密者",
-            "movieCity":"国家：香港",
+            "movieCity":"制片国家：香港",
             "movieDirector":"导演：邱礼涛",
             "movieStarring":"主演：格雷格·T·尼尔森 / 霍利·亨特",
             "movieType":"类型：喜剧 / 动作 / 动画 / 冒险"
@@ -74,362 +74,362 @@
     ],[
         {
             "imgSrc":"http://www.cbooo.cn/moviepic/217497.jpg",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "movieName":"复仇者联盟3：无限战争",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"安东尼·罗素 / 乔·罗素",
+            "movieStarring":"小罗伯特·唐尼 / 克里斯·海姆斯沃斯",
+            "movieType":"动作 / 科幻 / 奇幻 / 冒险"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/250729.jpg",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "movieName":"片名：超时空同居",
+            "movieCity":"制片国家：国大陆",
+            "movieDirector":"导演：苏伦",
+            "movieStarring":"主演：雷佳音 / 佟丽娅",
+            "movieType":"类型：奇幻 / 爱情 / 喜剧"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/253823.jpg",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "movieName":"后来的我们",
+            "movieCity":"制片国家：国",
+            "movieDirector":"刘若英",
+            "movieStarring":" 井柏然 / 周冬雨",
+            "movieType":"剧情 / 爱情"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/233465.jpg",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "movieName":"幕后玩家",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"任鹏远",
+            "movieStarring":"徐峥 / 王丽坤",
+            "movieType":"剧情 / 悬疑 / 犯罪"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/250858.jpg",
-            "movieName":"aaa",
-            "movieCity":"aaa",
+            "movieName":"寂静之地",
+            "movieCity":"制片国家：aaa",
             "movieDirector":"aaa",
             "movieStarring":"aaa",
             "movieType":"aaa"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/225925.jpg",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "movieName":"狂暴巨兽",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"布拉德·佩顿",
+            "movieStarring":"道恩·强森 / 娜奥米·哈里斯",
+            "movieType":"动作 / 科幻 / 冒险"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/224595.jpg",
-            "movieName":"aaa",
-            "movieCity":"aaa",
+            "movieName":"游侠索罗：星球大战外传",
+            "movieCity":"制片国家：aaa",
             "movieDirector":"aaa",
             "movieStarring":"aaa",
             "movieType":"aaa"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/228947.jpg",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "movieName":"巴霍巴利王2：终结",
+            "movieCity":"制片国家：印度",
+            "movieDirector":"S·S·拉贾穆里",
+            "movieStarring":"帕拉巴斯 / 拉纳·达格巴提",
+            "movieType":"剧情 / 动作 / 奇幻"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/219107.jpg",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "movieName":"头号玩家",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"史蒂文·斯皮尔伯格",
+            "movieStarring":"泰伊·谢里丹 / 奥利维亚·库克",
+            "movieType":"动作 / 科幻 / 冒险"
         },{
             "imgSrc":"http://www.cbooo.cn/moviepic/247295.jpg",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "movieName":"我是你妈",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"张骁",
+            "movieStarring":"闫妮 / 邹元清",
+            "movieType":"剧情 / 喜剧"
         }
     ],[
         {
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/219107.jpg",
+            "movieName":"头号玩家",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"史蒂文·斯皮尔伯格",
+            "movieStarring":"泰伊·谢里丹 / 奥利维亚·库克",
+            "movieType":"动作 / 科幻 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/225925.jpg",
+            "movieName":"狂暴巨兽",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"布拉德·佩顿",
+            "movieStarring":"道恩·强森 / 娜奥米·哈里斯",
+            "movieType":"动作 / 科幻 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/253823.jpg",
+            "movieName":"后来的我们",
+            "movieCity":"制片国家：国",
+            "movieDirector":"刘若英",
+            "movieStarring":" 井柏然 / 周冬雨",
+            "movieType":"剧情 / 爱情"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/251494.jpg",
+            "movieName":"起跑线",
+            "movieCity":"制片国家：印度",
+            "movieDirector":"萨基特·乔杜里",
+            "movieStarring":"萨基特·乔杜里 / 琪娜特·拉克哈尼",
+            "movieType":"剧情 / 喜剧"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/233465.jpg",
+            "movieName":"幕后玩家",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"任鹏远",
+            "movieStarring":"徐峥 / 王丽坤",
+            "movieType":"剧情 / 悬疑 / 犯罪"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/253263.jpg",
+            "movieName":"21克拉",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"何念",
+            "movieStarring":"郭京飞 / 迪丽热巴",
+            "movieType":"喜剧 / 爱情"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/195922.jpg",
+            "movieName":"环太平洋2：雷霆再起",
+            "movieCity":"制片国家：美国 / 中国大陆",
+            "movieDirector":"斯蒂文·S·迪奈特",
+            "movieStarring":"约翰·博耶加 / 斯科特·伊斯特伍德",
+            "movieType":"动作 / 科幻 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/218264.jpg",
+            "movieName":"湮灭",
+            "movieCity":"制片国家：美国 / 英国",
+            "movieDirector":"亚历克斯·嘉兰",
+            "movieStarring":"娜塔莉·波特曼 / 詹妮弗·杰森·李",
+            "movieType":"剧情 / 科幻 / 惊悚"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/236671.jpg",
+            "movieName":"冰雪女王3：火与冰",
+            "movieCity":"制片国家：俄罗斯 / 中国大陆",
+            "movieDirector":"阿列克谢·特斯蒂斯林",
+            "movieStarring":"迪·布拉雷·贝克尔 / 洛瑞·加纳 ",
+            "movieType":"动画 / 家庭 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/234616.jpg",
+            "movieName":"暴裂无声",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"忻钰坤",
+            "movieStarring":"宋洋 / 姜武 / 袁文康",
+            "movieType":"剧情 / 悬疑 / 犯罪"
         }
     ],[
         {
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/240425.jpg",
+            "movieName":"红海行动",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"林超贤",
+            "movieStarring":"张译 / 黄景瑜",
+            "movieType":"动作 / 战争"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/218085.jpg",
+            "movieName":"黑豹",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"瑞恩·库格勒",
+            "movieStarring":"瑞恩·库格勒 / 乔·罗伯特·科尔",
+            "movieType":"动作 / 科幻 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/195922.jpg",
+            "movieName":"环太平洋2：雷霆再起",
+            "movieCity":"制片国家：美国 / 中国大陆",
+            "movieDirector":"斯蒂文·S·迪奈特",
+            "movieStarring":"约翰·博耶加 / 斯科特·伊斯特伍德",
+            "movieType":"动作 / 科幻 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/234873.jpg",
+            "movieName":"唐人街探案2",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"陈思诚",
+            "movieStarring":"王宝强 / 刘昊然 / 肖央",
+            "movieType":"喜剧 / 动作 / 悬疑 / 犯罪"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/108482.jpg",
+            "movieName":"古墓丽影：源起之战",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"罗阿尔·乌索格",
+            "movieStarring":"吉内瓦·德沃莱特-罗宾森 / 阿拉斯泰尔·西登斯",
+            "movieType":"动作 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/254741.jpg",
+            "movieName":"厉害了，我的国",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"卫铁",
+            "movieStarring":"无",
+            "movieType":"纪录片"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/228764.jpg",
+            "movieName":"小萝莉的猴神大叔",
+            "movieCity":"制片国家：印度",
+            "movieDirector":"卡比尔·汗",
+            "movieStarring":"萨尔曼·汗 / 哈莎莉·马洛特拉",
+            "movieType":"剧情 / 喜剧 / 动作"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/219107.jpg",
+            "movieName":"头号玩家",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"史蒂文·斯皮尔伯格",
+            "movieStarring":"泰伊·谢里丹 / 奥利维亚·库克",
+            "movieType":"动作 / 科幻 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/240443.jpg",
+            "movieName":"比得兔",
+            "movieCity":"制片国家：美国 / 英国 / 澳大利亚",
+            "movieDirector":"威尔·古勒",
+            "movieStarring":"詹姆斯·柯登 / 多姆纳尔·格里森",
+            "movieType":"喜剧 / 动画 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/237182.jpg",
+            "movieName":"捉妖记2",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"许诚毅",
+            "movieStarring":"白百何 / 井柏然",
+            "movieType":"喜剧 / 奇幻"
         }
     ],[
         {
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/234873.jpg",
+            "movieName":"唐人街探案2",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"陈思诚",
+            "movieStarring":"王宝强 / 刘昊然 / 肖央",
+            "movieType":"喜剧 / 动作 / 悬疑 / 犯罪"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/240425.jpg",
+            "movieName":"红海行动",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"林超贤",
+            "movieStarring":"张译 / 黄景瑜",
+            "movieType":"动作 / 战争"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/237182.jpg",
+            "movieName":"捉妖记2",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"许诚毅",
+            "movieStarring":"白百何 / 井柏然",
+            "movieType":"喜剧 / 奇幻"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/209205.jpg",
+            "movieName":"西游记女儿国",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"郑保瑞",
+            "movieStarring":"郭富城 / 冯绍峰",
+            "movieType":"喜剧 / 爱情 / 奇幻"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/251605.jpg",
+            "movieName":"熊出没·变形记",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"丁亮 / 林汇达",
+            "movieStarring":"张伟 / 张秉君",
+            "movieType":"喜剧 / 动画 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/249736.jpg",
+            "movieName":"神秘巨星",
+            "movieCity":"制片国家：印度",
+            "movieDirector":"阿德瓦·香登",
+            "movieStarring":"塞伊拉·沃西 / 梅·维贾",
+            "movieType":"剧情 / 音乐"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/223804.jpg",
+            "movieName":"南极之恋",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"吴有音",
+            "movieStarring":"赵又廷 / 杨子姗",
+            "movieType":"爱情 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/251971.jpg",
+            "movieName":"祖宗十九代",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"郭德纲",
+            "movieStarring":"岳云鹏 / 吴京",
+            "movieType":"喜剧 / 奇幻"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/223926.jpg",
+            "movieName":"移动迷宫3：死亡解药",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"韦斯·鲍尔",
+            "movieStarring":"迪伦·奥布莱恩 / 卡雅·斯考达里奥",
+            "movieType":"动作 / 科幻 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/154373.jpg",
+            "movieName":"无问西东",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"李芳芳",
+            "movieStarring":"章子怡 / 黄晓明 ",
+            "movieType":"剧情 / 爱情 / 战争"
         }
     ],[
         {
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/230788.jpg",
+            "movieName":"前任3：再见前任",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"田羽生",
+            "movieStarring":"韩庚 / 郑恺 / 于文文 / 曾梦雪",
+            "movieType":"喜剧 / 爱情"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/154373.jpg",
+            "movieName":"无问西东",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"李芳芳",
+            "movieStarring":"章子怡 / 黄晓明 ",
+            "movieType":"剧情 / 爱情 / 战争"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/249736.jpg",
+            "movieName":"神秘巨星",
+            "movieCity":"制片国家：印度",
+            "movieDirector":"阿德瓦·香登",
+            "movieStarring":"塞伊拉·沃西 / 梅·维贾",
+            "movieType":"剧情 / 音乐"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/227232.jpg",
+            "movieName":"勇敢者游戏：决战丛林",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"杰克·卡斯丹",
+            "movieStarring":"克里斯·麦克纳 / 埃里克·萨默斯",
+            "movieType":"动作 / 奇幻 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/211981.jpg",
+            "movieName":"星球大战：最后的绝地武士",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"莱恩·约翰逊",
+            "movieStarring":"马克·哈米尔 / 凯丽·费雪",
+            "movieType":"动作 / 科幻 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/236404.jpg",
+            "movieName":"芳华",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"冯小刚",
+            "movieStarring":"黄轩 / 苗苗 ",
+            "movieType":"剧情 / 历史 / 战争"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/223926.jpg",
+            "movieName":"移动迷宫3：死亡解药",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"韦斯·鲍尔",
+            "movieStarring":"迪伦·奥布莱恩 / 卡雅·斯考达里奥",
+            "movieType":"动作 / 科幻 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/235349.jpg",
+            "movieName":"奇迹男孩",
+            "movieCity":"制片国家：美国 / 香港",
+            "movieDirector":"斯蒂芬·卓博斯基",
+            "movieStarring":"斯蒂芬·卓博斯基 / 斯蒂夫·康拉德",
+            "movieType":"剧情 / 家庭 / 儿童"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/235816.jpg",
+            "movieName":"公牛历险记",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"卡洛斯·沙尔丹哈",
+            "movieStarring":" 约翰·塞纳 / 凯特·麦克金农",
+            "movieType":"喜剧 / 动画 / 冒险"
         },{
-            "imgSrc":"aaa",
-            "movieName":"aaa",
-            "movieCity":"aaa",
-            "movieDirector":"aaa",
-            "movieStarring":"aaa",
-            "movieType":"aaa"
+            "imgSrc":"http://www.cbooo.cn/moviepic/236250.jpg",
+            "movieName":"二代妖精之今生有幸",
+            "movieCity":"制片国家：中国",
+            "movieDirector":"肖洋",
+            "movieStarring":"冯绍峰 / 刘亦菲",
+            "movieType":"喜剧 / 爱情 / 奇幻"
         }
     ]
 ]
