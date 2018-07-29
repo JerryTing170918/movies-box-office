@@ -11,9 +11,6 @@
                 <router-link to="/historyData">
                     <div class="div-class-optionItem">历史票房</div><hr>
                 </router-link>
-                <router-link>
-                    <div class="div-class-optionItem">其它票房</div><hr>
-                </router-link>
             </div>
         </div>
     </div>
@@ -31,11 +28,11 @@ export default {
         position fixed
         top 250px
         width 80px
-        height 168px
+        height 126px
         box-shadow: 0 0 4px rgba(0,0,0,.2);
         .div-class-option
-            display inline-block
             width 72px
+            display inline-block
             a
                 text-decoration: none;
                 .div-class-optionItem

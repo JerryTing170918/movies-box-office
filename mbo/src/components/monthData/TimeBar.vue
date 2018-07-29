@@ -4,6 +4,7 @@
             <!-- <button @click="handleClick">事件</button> -->
             <span>票房日期</span>
             <select id="selDateElm" v-on:change="getMonthValue()">
+                    <option  value="2018-06-01">2018第7月</option>
                     <option  value="2018-06-01">2018第6月</option>
                     <option  value="2018-05-01">2018第5月</option>
                     <option  value="2018-04-01">2018第4月</option>

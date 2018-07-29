@@ -1,6 +1,78 @@
 [
     [
         {   
+            "imgSrc":"http://www.cbooo.cn/moviepic/242167.jpg",
+            "movieCity":"制片国家：中国大陆",
+            "movieDirector":"导演：文牧野",
+            "movieName":"片名：我不是药神",
+            "movieStarring":"主演： 徐峥 / 王传君 / 周一围",
+            "movieType":"类型：剧情 / 喜剧"
+        },{
+            "imgSrc":"http://www.cbooo.cn/moviepic/223748.jpg",
+            "movieName":"片名：邪不压正",
+            "movieCity":"制片国家：中国大陆",
+            "movieDirector":"导演：姜文",
+            "movieStarring":"主演： 彭于晏 / 廖凡 / 姜文",
+            "movieType":"类型：剧情 / 喜剧 / 动作"
+        },{
+            "imgSrc":"http://www.cbooo.cn/moviepic/234573.jpg",
+            "movieName":"片名：摩天营救",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"导演：罗森·马歇尔·瑟伯",
+            "movieStarring":"主演： 道恩·强森 / 内芙·坎贝尔 / 黄经汉 ",
+            "movieType":"类型：动作 / 惊悚 / 冒险"
+        },{
+            "imgSrc":"http://www.cbooo.cn/moviepic/253688.jpg",
+            "movieName":"片名：西虹市首富",
+            "movieCity":"制片国家：中国大陆",
+            "movieDirector":"导演：闫非 / 彭大魔",
+            "movieStarring":"主演： 沈腾 / 宋芸桦 / 张一鸣",
+            "movieType":"类型：喜剧"
+        },{
+            "imgSrc":"http://www.cbooo.cn/moviepic/240989.jpg",
+            "movieName":"片名：动物世界",
+            "movieCity":"制片国家：中国大陆",
+            "movieDirector":"导演：韩延",
+            "movieStarring":"主演： 李易峰 / 迈克尔·道格拉斯 / 周冬雨",
+            "movieType":"类型：剧情 / 动作 / 冒险"
+        },{
+            "imgSrc":"http://www.cbooo.cn/moviepic/232758.jpg",
+            "movieName":"片名：狄仁杰之四大天王",
+            "movieCity":"制片国家：中国大陆 / 香港",
+            "movieDirector":"导演：徐克",
+            "movieStarring":"主演： 赵又廷 / 冯绍峰 / 林更新 ",
+            "movieType":"类型：动作 / 悬疑 / 古装"
+        },{
+            "imgSrc":"http://www.cbooo.cn/moviepic/225759.jpg",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"导演：胡安·安东尼奥·巴亚纳 Juan Antonio Bayona",
+            "movieName":"片名：侏罗纪世界2",
+            "movieStarring":"主演：克里斯·帕拉特 / 布莱丝·达拉斯·霍华德",
+            "movieType":"类型：动作 / 科幻 / 冒险"
+        },{
+            "imgSrc":"http://www.cbooo.cn/moviepic/256244.jpg",
+            "movieName":"片名：大头儿子和小头爸爸3",
+            "movieCity":"制片国家：中国大陆",
+            "movieDirector":"导演：何澄",
+            "movieStarring":"主演： 刘纯燕 / 董浩 / 鞠萍",
+            "movieType":"类型： 动画 / 家庭 / 儿童 / 冒险"
+        },{
+            "imgSrc":"http://www.cbooo.cn/moviepic/223686.jpg",
+            "movieName":"片名：超人总动员2",
+            "movieCity":"制片国家：美国",
+            "movieDirector":"导演：布拉德·伯德",
+            "movieStarring":"主演：格雷格·T·尼尔森 / 霍利·亨特",
+            "movieType":"类型：喜剧 / 动作 / 动画 / 冒险"
+        },{
+            "imgSrc":"http://www.cbooo.cn/moviepic/232558.jpg",
+            "movieName":"片名：阿修罗",
+            "movieCity":"制片国家：中国大陆",
+            "movieDirector":"导演：张鹏",
+            "movieStarring":"主演：吴磊 / 梁家辉 / 刘嘉玲",
+            "movieType":"类型：动作 / 爱情 / 奇幻"
+        }
+    ],[
+        {   
             "imgSrc":"http://www.cbooo.cn/moviepic/225759.jpg",
             "movieCity":"制片国家：美国",
             "movieDirector":"导演：胡安·安东尼奥·巴亚纳 Juan Antonio Bayona",
